@@ -2,7 +2,7 @@
   "$schema": "https://schema.tauri.app/config/2",
   "productName": "tauri2-heroui-tpl",
   "version": "0.1.0",
-  "identifier": "com.hy.tauri2-heroui-tpl",
+  "identifier": "com.hy.harmony.devtool",
   "build": {
     "beforeDevCommand": "pnpm dev",
     "devUrl": "http://localhost:1420",
@@ -12,7 +12,7 @@
   "app": {
     "windows": [
       {
-        "title": "tauri2-heroui-tpl",
+        "title": "鸿蒙开发者工具",
         "width": 800,
         "height": 600
       }
